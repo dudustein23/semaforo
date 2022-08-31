@@ -1,0 +1,7 @@
+main.c:3:5:main	8	static
+main.c:32:6:esperaTimer	8	static
+main.c:40:6:seta700ms	16	static
+main.c:45:6:seta200ms	16	static
+main.c:50:6:limpaEstouro	16	static
+main.c:54:6:estourou	16	static
+main.c:58:6:naoEstourou	16	static
